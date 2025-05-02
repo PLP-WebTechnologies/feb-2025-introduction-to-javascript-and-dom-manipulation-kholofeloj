@@ -10,7 +10,6 @@ button {
 }
 
 #color-box {
-    background-color: rgb(0, 121, 26);
     width: 600px;
     height: 100px;
     margin-top: 20px;
@@ -24,7 +23,7 @@ button {
 #color-box p {
     margin: 0 auto;
     font-size: 20px;
-    color: #fff;
+    color: #383838;
 
 }
   
